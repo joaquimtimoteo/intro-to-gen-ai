@@ -285,9 +285,8 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 Joaquim Timoteo  
 Email: [joaquimcarltimoteo@gmail.com](mailto:joaquimcarltimoteo@gmail.com)  
 GitHub: [github.com/joaquimtimoteo](https://github.com/joaquimtimoteo)
-Linkdin: [joaquimcarltimoteo@gmail.com](mailto:joaquimcarltimoteo@gmail.com)  
 Para baixar o projeto, acesse [este link](https://github.com/joaquimtimoteo/intro-to-gen-ai).
-
+Linkdin: [joaquimcarltimoteo@gmail.com](mailto:joaquimcarltimoteo@gmail.com)  
 ---
 
 Essa adição cobre como comprar tokens para continuar usando a API da OpenAI e inclui detalhes sobre a coleção do Postman para facilitar a interação com a API. Isso deve ajudar os usuários a resolver quaisquer problemas de cobrança e a utilizar a API de maneira eficiente.
