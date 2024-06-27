@@ -285,7 +285,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 Joaquim Timoteo  
 Email: [joaquimcarltimoteo@gmail.com](mailto:joaquimcarltimoteo@gmail.com)  
 GitHub: [github.com/joaquimtimoteo](https://github.com/joaquimtimoteo)
-Linkedin: [www.linkedin.com/in/joaquim-timóteo-619957227](www.linkedin.com/in/joaquim-timóteo-619957227)
+Linkdin: [joaquimcarltimoteo@gmail.com](mailto:joaquimcarltimoteo@gmail.com)  
 Para baixar o projeto, acesse [este link](https://github.com/joaquimtimoteo/intro-to-gen-ai).
 
 ---
