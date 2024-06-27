@@ -288,7 +288,7 @@ Claro! Vamos adicionar a linha para o LinkedIn nos contatos do projeto. Aqui est
 
 Joaquim Timoteo  
 Email: [joaquimcarltimoteo@gmail.com](mailto:joaquimcarltimoteo@gmail.com)  
-LinkedIn: [linkedin.com/in/joaquimtimoteo](www.linkedin.com/in/joaquim-timóteo-619957227)  
+LinkedIn: [www.linkedin.com/in/joaquim-timóteo-619957227](www.linkedin.com/in/joaquim-timóteo-619957227)  
 GitHub: [github.com/joaquimtimoteo](https://github.com/joaquimtimoteo)
 
 Para baixar o projeto, acesse [este link](https://github.com/joaquimtimoteo/intro-to-gen-ai).
