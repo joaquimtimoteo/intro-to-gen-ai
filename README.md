@@ -280,13 +280,19 @@ Para contribuir com este projeto, siga os passos abaixo:
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-### Contato
+Claro! Vamos adicionar a linha para o LinkedIn nos contatos do projeto. Aqui está o texto atualizado:
+
+---
+
+## Contato
 
 Joaquim Timoteo  
 Email: [joaquimcarltimoteo@gmail.com](mailto:joaquimcarltimoteo@gmail.com)  
+LinkedIn: [linkedin.com/in/joaquimtimoteo](https://www.linkedin.com/in/joaquimtimoteo)  
 GitHub: [github.com/joaquimtimoteo](https://github.com/joaquimtimoteo)
+
 Para baixar o projeto, acesse [este link](https://github.com/joaquimtimoteo/intro-to-gen-ai).
-Linkdin: [joaquimcarltimoteo@gmail.com](mailto:joaquimcarltimoteo@gmail.com)  
+
 ---
 
 Essa adição cobre como comprar tokens para continuar usando a API da OpenAI e inclui detalhes sobre a coleção do Postman para facilitar a interação com a API. Isso deve ajudar os usuários a resolver quaisquer problemas de cobrança e a utilizar a API de maneira eficiente.
