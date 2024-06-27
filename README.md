@@ -1,7 +1,5 @@
 # Intro to Gen AI: Integrate APIs from OpenAI
 
-![OpenAI](https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg)
-
 Este repositório contém uma introdução à inteligência artificial generativa e como integrar APIs da OpenAI em projetos específicos. Abaixo estão os passos detalhados desde a instalação de ferramentas até a compreensão dos conceitos principais e a integração das APIs.
 
 ## Índice
@@ -287,7 +285,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 Joaquim Timoteo  
 Email: [joaquimcarltimoteo@gmail.com](mailto:joaquimcarltimoteo@gmail.com)  
 GitHub: [github.com/joaquimtimoteo](https://github.com/joaquimtimoteo)
-
+Linkedin: [www.linkedin.com/in/joaquim-timóteo-619957227]
 Para baixar o projeto, acesse [este link](https://github.com/joaquimtimoteo/intro-to-gen-ai).
 
 ---
