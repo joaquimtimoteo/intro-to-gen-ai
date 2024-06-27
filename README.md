@@ -280,7 +280,7 @@ Para contribuir com este projeto, siga os passos abaixo:
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Contato
+### Contato
 
 Joaquim Timoteo  
 Email: [joaquimcarltimoteo@gmail.com](mailto:joaquimcarltimoteo@gmail.com)  
